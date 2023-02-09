@@ -1,0 +1,38 @@
+*{
+    font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+    link rel="preconnect" href="https://fonts.gstatic.com" crossorigin
+    link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet";
+}
+
+
+p{ 
+    color:black;
+       
+}
+
+h1{ 
+    color:rgb(0, 0, 0);
+    font-style: bold;
+    
+    
+}
+  /**bold es negrita
+    */
+h3
+{font-weight:lighter;
+    color:rgb(197, 75, 75);
+}
+
+img {
+    border-radius: 50%;
+    border-color: black;
+    border-style: double;
+    height:200px;
+    
+  } 
+
+div.container{
+    
+  }
+
+
